@@ -1,5 +1,5 @@
-<h1>Introdução ao flask</h1>
-<h2>Micro-framework do ecossistema Python</h2>
+<h1>Introdução ao Flask</h1>
+<h2> É um micro-framework do ecossistema Python</h2>
 # Werkzeug
 <p>É um Kit de ferramentas WSGI, que implementa solicitações, objetos de resposta e outras
 funções de utilitário. Isso permite construir um fremawork web sobre ele. O framework Flask
