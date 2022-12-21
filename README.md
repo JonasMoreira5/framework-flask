@@ -1,11 +1,11 @@
-# Introdução ao flask
-Micro-framework do ecossistema Python
+<h1>Introdução ao flask</h1>
+<h2>Micro-framework do ecossistema Python</h2>
 # Werkzeug
-É um Kit de ferramentas WSGI, que implementa solicitações, objetos de resposta e outras
+<p>É um Kit de ferramentas WSGI, que implementa solicitações, objetos de resposta e outras
 funções de utilitário. Isso permite construir um fremawork web sobre ele. O framework Flask
-usa o Werkzeug como uma de suas bases.
+usa o Werkzeug como uma de suas bases.</p>
 # Jinja2
-É um motor de templates popular em Python. Funciona da seguinte forma: 
-    - Um sistema de modelos da Web combina um modelo com uma determinada fonte de dados
-    para rendenrizar páginas da Web dinâmicas. 
+<p>É um motor de templates popular em Python. Funciona da seguinte forma:</p> 
+   <p>- Um sistema de modelos da Web combina um modelo com uma determinada fonte de dados
+    para rendenrizar páginas da Web dinâmicas.</p> 
 
