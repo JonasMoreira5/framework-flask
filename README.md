@@ -10,5 +10,10 @@ usa o Werkzeug como uma de suas bases.</p>
     para rendenrizar páginas da Web dinâmicas.</p> 
 <h3> Qual o Objetivo do Flask?</h3>
     <p>O objetivo é manter o núcleo de uma aplicação simples, porém extensível. O Flask não possui uma camada  
-    de abstração embutida para manipulação de banco de dados, enm possui um suporte de validação.  
+    de abstração embutida para manipulação de banco de dados, nem possui um suporte de validação.  
     Em vez disso, o flask suporta as extensões para incluir essa funcionalidade no aplicativo.</p>
+
+<h3>Instalação do Flask</h3>
+    <p> Abra o terminal do seu editor e digite: 
+        **pip install Flask**
+    </p>
