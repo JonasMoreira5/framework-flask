@@ -15,5 +15,5 @@ usa o Werkzeug como uma de suas bases.</p>
 
 <h3>Instalação do Flask</h3>
     <p> Abra o terminal do seu editor e digite:</br>   
-        **pip install Flask**
+        _**pip install Flask**_
     </p>
