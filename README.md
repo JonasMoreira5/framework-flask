@@ -1,4 +1,6 @@
 <h1>Introdução ao Flask</h1>
+![Introdução ao Flask]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AFlask_logo.svg&psig=AOvVaw2dAj1q6SOre4hCbLYGczyY&ust=1671754831498000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCTmJv6i_wCFQAAAAAdAAAAABAD)
+
 <h2> É um micro-framework do ecossistema Python</h2>
 <h3>Werkzeug</h3>
 <p>É um Kit de ferramentas WSGI, que implementa solicitações, objetos de resposta e outras
