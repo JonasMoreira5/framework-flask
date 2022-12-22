@@ -8,4 +8,7 @@ usa o Werkzeug como uma de suas bases.</p>
 <p>É um motor de templates popular em Python. Funciona da seguinte forma:</p> 
    <p>- Um sistema de modelos da Web combina um modelo com uma determinada fonte de dados
     para rendenrizar páginas da Web dinâmicas.</p> 
-
+<h3> Qual o Objetivo do Flask?<h3>
+    <p>O objetivo é manter o núcleo de uma aplicação simples, porém extensível. O Flask não possui uma camada  
+    de abstração embutida para manipulação de banco de dados, enm possui um suporte de validação.  
+    Em vez disso, o flask suporta as extensões para incluir essa funcionalidade no aplicativo.</p>
