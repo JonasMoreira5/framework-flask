@@ -14,6 +14,5 @@ usa o Werkzeug como uma de suas bases.</p>
     Em vez disso, o flask suporta as extensões para incluir essa funcionalidade no aplicativo.</p>
 
 <h3>Instalação do Flask</h3>
-    <p> Abra o terminal do seu editor e digite:</br>   
-        _**pip install Flask**_
-    </p>
+    Abra o terminal do seu editor e digite:</br>   
+        **pip install Flask**
