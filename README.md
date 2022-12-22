@@ -1,6 +1,4 @@
 <h1>Introdução ao Flask</h1>
-<p>![Introdução ao Flask]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AFlask_logo.svg&psig=AOvVaw2dAj1q6SOre4hCbLYGczyY&ust=1671754831498000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCTmJv6i_wCFQAAAAAdAAAAABAD)</p>
-
 <h2> É um micro-framework do ecossistema Python</h2>
 <h3>Werkzeug</h3>
 <p>É um Kit de ferramentas WSGI, que implementa solicitações, objetos de resposta e outras
@@ -17,4 +15,4 @@ usa o Werkzeug como uma de suas bases.</p>
 
 <h3>Instalação do Flask</h3>
     Abra o terminal do seu editor e digite:</br>   
-        ~ pip install Flask
+        pip install Flask
